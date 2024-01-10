@@ -588,8 +588,7 @@ ul.tags li a:hover {
     font-size: 0.85rem;
     border-radius: 0;
     padding: 4px 10px;
-    border-top-right-radius: 3px;
-    border-bottom-right-radius: 3px;
+    border-radius: 3px;
     font-weight: 600;
     height: 34px;
     letter-spacing: 0.5px;
