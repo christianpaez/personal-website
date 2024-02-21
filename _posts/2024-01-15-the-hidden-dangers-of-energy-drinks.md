@@ -8,10 +8,6 @@ featured: true
 hidden: true
 ---
 
-# The Hidden Dangers of Energy Drinks
-
-## Introduction
-
 Energy drinks have become increasingly popular in recent years, especially among young adults and athletes. Marketed as a quick boost to enhance energy and focus, these beverages are often consumed without much thought to their potential risks. In this blog post, we will explore the hidden dangers associated with energy drinks and discuss healthier alternatives to consider.
 
 ## Unknown Ingredients and Excessive Caffeine
