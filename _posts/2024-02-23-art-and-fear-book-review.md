@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Art and Fear Book Review
+title: Art and fear by David Bayles & Ted Orland Book Review
 author: christian
 categories: [Book Reviews, Creativity, Personal Development]
 image: assets/images/art-and-fear.jpg
