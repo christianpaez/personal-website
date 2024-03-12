@@ -2,7 +2,7 @@
 layout: post
 title: 'Black & White: The Rise and Fall of Bobby Fischer By Julian Voloj and William Wagner Book Review'
 author: christian
-categories: [Books Reviews, Chess]
+categories: [Book Reviews, Chess]
 featured: true
 hidden: true
 image: assets/images/black-and-white.png
