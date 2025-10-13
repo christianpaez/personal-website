@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-144826910-1'
 disqus: 'christianpaez'
-mailchimp-list: 'http://eepurl.com/iHNQgU'
+mailchimp-list: 'https://eepurl.com/iHNQgU'
 include: ["_pages"]
 permalink: /:title/
 
