@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Milk and honey By Rupi Kaur Book Review"
 author: christian
 categories: [Book Reviews, Poetry]
 image: assets/images/milk-and-honey.jpg
